@@ -1,7 +1,7 @@
 /* ============ EDIT YOUR STORY HERE ============ */
-const couple = { name: "Your Name", partnerName: "Partner", relationshipStartDate: "2023-10-25" };
+const couple = { name: "Charles", partnerName: "Amanda (Obi m)", relationshipStartDate: "2025-10-30" };
 const hero = {
-title: "Us, Always ❤️",
+title: "Us, Always and Forever ❤️",
 description: "Every love story is beautiful, but ours is my favourite. A collection of our favourite moments, unforgettable memories, and the little things that make us, us.",
 moreInfo: "Write a longer message about your relationship here."
 };
