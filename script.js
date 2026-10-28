@@ -16,7 +16,7 @@ const rows = [
 { title: "My Favourite Smile", date: "2025-11-15", img: "assets/images/memory-02.jpg", text: "My Induction shoot. Glad you were there with me" },
 { title: "Our First Date", date: "2026-01-09", img: "assets/images/memory-03.jpg", text: "Finally we went out!!!" },
 { title: "Just You and Me", date: "2026-01-09", img: "assets/images/memory-04.jpg", text: "Was really wishing the movie doesn't end" },
-{ title: "My Safe Place", date: "2026-02-14", img: "assets/images/memory-05.jpg", text: "Not the clearest picture but a vital memory. I'm glat we were at each other's shoot" } ] },
+{ title: "My Safe Place", date: "2026-02-14", img: "assets/images/memory-05.PNG", text: "Not the clearest picture but a vital memory. I'm glat we were at each other's shoot" } ] },
 { id: "episodes", title: "Our Favourite Episodes", items: [
 { title: "Episode 1: How It Started", img: "assets/images/episode-01.jpg", video: "assets/videos/episode-01.mp4", text: "Describe this moment." },
 { title: "Episode 2: Falling for You", img: "assets/images/episode-02.jpg", video: "assets/videos/episode-02.mp4", text: "Describe this moment." },
