@@ -17,23 +17,6 @@ const rows = [
 { title: "Our First Date", date: "2026-01-09", img: "assets/images/memory-03.jpg", text: "Finally we went out!!!" },
 { title: "Just You and Me", date: "2026-01-09", img: "assets/images/memory-04.jpg", text: "Was really wishing the movie doesn't end" },
 { title: "My Safe Place", date: "2026-02-14", img: "assets/images/memory-05.PNG", text: "Not the clearest picture but a vital memory. I'm glat we were at each other's shoot" } ] },
-{ id: "episodes", title: "Our Favourite Episodes", items: [
-{ title: "Episode 1: How It Started", img: "assets/images/episode-01.jpg", video: "assets/videos/episode-01.mp4", text: "Describe this moment." },
-{ title: "Episode 2: Falling for You", img: "assets/images/episode-02.jpg", video: "assets/videos/episode-02.mp4", text: "Describe this moment." },
-{ title: "Episode 3: The Little Things", img: "assets/images/episode-03.jpg", video: "assets/videos/episode-03.mp4", text: "Describe this moment." } ] },
-{ id: "reasons", title: "A Thousand Little Reasons", items: [
-{ title: "Your Smile", text: "Why I love your smile." }, { title: "Your Heart", text: "Why I love your heart." },
-{ title: "The Way You Laugh", text: "Why I love your laugh." }, { title: "How You Understand Me", text: "Your message here." },
-{ title: "The Peace You Give Me", text: "Your message here." }, { title: "Simply Being You", text: "Your message here." } ] },
-{ id: "journey", title: "Our Journey So Far", items: [
-{ title: "When We First Met", date: "2023-10-25", img: "assets/images/journey-01.jpg", text: "The full memory." },
-{ title: "Our First Date", date: "", img: "assets/images/journey-02.jpg", text: "The full memory." },
-{ title: "When We Became Official", date: "", img: "assets/images/journey-03.jpg", text: "The full memory." },
-{ title: "Today: Another Year of Us", date: "", img: "assets/images/journey-04.jpg", text: "The full memory." } ] },
-{ id: "candid", title: "Just the Two of Us", items: [
-{ title: "Silly Selfie", img: "assets/images/candid-01.jpg", text: "A funny memory." },
-{ title: "Random Tuesday", img: "assets/images/candid-02.jpg", text: "A funny memory." },
-{ title: "Caught on Camera", img: "assets/images/candid-03.jpg", video: "assets/videos/candid-01.mp4", text: "A funny memory." } ] },
 { id: "letters", title: "Messages I Never Want You to Forget", items: [
 { title: "Read This When You Miss Me", text: "Dear love,\n\nYour letter here.\n\nForever yours" },
 { title: "On the Days You Feel Unloved", text: "Your letter here." },
