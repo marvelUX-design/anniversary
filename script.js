@@ -122,10 +122,6 @@ $("surprise").onclick = () => {
     document.body.append(h);
     setTimeout(() => h.remove(), 5000);
   }
-};if (matchMedia("(prefers-reduced-motion:reduce)").matches) return;
-for (let i = 0; i < 25; i++) { const h = document.createElement("span"); h.className = "fall"; h.textContent = "♥";
-h.style.cssText = `left:${Math.random() * 100}vw;font-size:${14 + Math.random() * 22}px;animation-delay:${Math.random() * 1.5}s`;
-document.body.append(h); setTimeout(() => h.remove(), 5000); }
 };
 
 // Nav
