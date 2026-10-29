@@ -18,26 +18,7 @@ const rows = [
 { title: "Just You and Me", date: "2026-01-09", img: "assets/images/memory-04.jpg", text: "Was really wishing the movie doesn't end" },
 { title: "My Safe Place", date: "2026-02-14", img: "assets/images/memory-05.PNG", text: "Not the clearest picture but a vital memory. I'm glad we were at each other's shoot" } ] },
 { id: "letters", title: "Messages I Never Want You to Forget", items: [
-{ title: "Read This When You Miss Me", text: "Dear love,\n\nMy Love,
-
-If you're reading this, I wish I could be right there beside you, holding you close, kissing your forehead, and reminding you that you never have to face this world alone.
-
-I know there will be moments when you miss me so much that a simple text or phone call doesn't feel like enough. I wish I could reach through the distance and wrap my arms around you. I wish I could make time pause for a little while, just so I could stay in your embrace a little longer.
-
-But until I can be there physically, I want you to remember something: distance can separate our bodies, but it can never erase what you mean to my heart.
-
-You are in my thoughts when I wake up, in my smile when something reminds me of you, and in my heart even during the busiest parts of my day. Sometimes, I catch myself imagining what it would feel like to have you beside me, doing absolutely nothing together, because even the simplest moments feel special when they're shared with you.
-
-I miss your presence, your voice, your smile, and all those little things you probably don't even realize I love about you. I miss the feeling of knowing you're close enough to touch.
-
-So, my love, whenever you miss me, close your eyes for a moment and imagine me holding you. Imagine me whispering that I love you, that I'm grateful for you, and that no matter how far apart we may be, you have a home in my heart.
-
-Until I can hold you again, please take care of the heart that I love so much.
-
-I miss you, I choose you, and I love you more than these words could ever explain.
-
-Forever yours,
-Your Love ❤️\n\nForever yours" },
+{ title: "Read This When You Miss Me", text: "Dear love,\n\nMy Love, If you're reading this, I wish I could be right there beside you, holding you close, kissing your forehead, and reminding you that you never have to face this world alone. I know there will be moments when you miss me so much that a simple text or phone call doesn't feel like enough. I wish I could reach through the distance and wrap my arms around you. I wish I could make time pause for a little while, just so I could stay in your embrace a little longer. But until I can be there physically, I want you to remember something: distance can separate our bodies, but it can never erase what you mean to my heart. You are in my thoughts when I wake up, in my smile when something reminds me of you, and in my heart even during the busiest parts of my day. Sometimes, I catch myself imagining what it would feel like to have you beside me, doing absolutely nothing together, because even the simplest moments feel special when they're shared with you. I miss your presence, your voice, your smile, and all those little things you probably don't even realize I love about you. I miss the feeling of knowing you're close enough to touch. So, my love, whenever you miss me, close your eyes for a moment and imagine me holding you. Imagine me whispering that I love you, that I'm grateful for you, and that no matter how far apart we may be, you have a home in my heart. Until I can hold you again, please take care of the heart that I love so much. I miss you, I choose you, and I love you more than these words could ever explain. Forever yours, Your Love ❤️\n\nForever yours" },
 { title: "On the Days You Feel Unloved", text: "Your letter here." },
 { title: "A Letter for Our Anniversary", text: "Your letter here." },
 { title: "If I Could Choose Again", text: "Your letter here." } ] }
