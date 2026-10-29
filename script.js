@@ -44,33 +44,33 @@ const rows = [
   { id: "letters", title: "Messages I Never Want You to Forget", items: [
     { title: "Read This When You Miss Me", text: `Dear love,
 
-If you're reading this, I wish I could be right there beside you, holding you close, kissing your forehead, and reminding you that you never have to face this world alone. I know there will be moments when you miss me so much that a simple text or phone call doesn't feel like enough. I wish I could reach through the distance and wrap my arms around you. I wish I could make time pause for a little while, just so I could stay in your embrace a little longer.
+If you're reading this, I wish I could be right there beside you, holding you close, kissing your forehead and reminding you that you never have to face this world alone. I know there will be moments when you miss me so much that a simple text or phone call doesn't feel like enough. I wish I could reach through my screen and wrap my arms around you. I wish I could make time pause for a little while just so I could stay in your embrace a little longer.
 
-But until I can be there physically, I want you to remember something: distance can separate our bodies, but it can never erase what you mean to my heart. You are in my thoughts when I wake up, in my smile when something reminds me of you, and in my heart even during the busiest parts of my day. Sometimes, I catch myself imagining what it would feel like to have you beside me, doing absolutely nothing together, because even the simplest moments feel special when they're shared with you.
+But until we can be together physically, I want you to remember that distance can separate our bodies, but it can never erase what you mean to me. You are in my thoughts when I wake up, in my smile when something reminds me of you and in my heart even during the busiest parts of my day in clinic. Most times i sit and imagine what it would feel like to have you beside me doing absolutely nothing together because even the simplest moments feel special when they're shared with you.
 
-I miss your presence, your voice, your smile, and all those little things you probably don't even realize I love about you. I miss the feeling of knowing you're close enough to touch. So, my love, whenever you miss me, close your eyes for a moment and imagine me holding you. Imagine me whispering that I love you, that I'm grateful for you, and that no matter how far apart we may be, you have a home in my heart.
+I miss your presence, your voice, your smile, and all those little things (esp dances) you probably don't even realize I love about you. I miss the feeling of knowing you're close enough to touch. So my love, whenever you miss me, close your eyes for a moment and imagine me holding you. Imagine me whispering that I love you, that I'm grateful for you and that no matter how far apart we may be, you have a home in my heart.
 
-Until I can hold you again, please take care of the heart that I love so much. I miss you, I choose you, and I love you more than these words could ever explain.
+Until I can hold you again, please take care of the heart that I love so much. I miss you obi m and I love you more than these words could ever explain.
 
 Forever yours,
 Your Love ❤️` },
-    { title: "On the Days You Feel Unloved", text: `If today is one of those days when you feel like you're not enough, when you question your worth or wonder whether you're truly loved, I need you to stop for a moment and read these words slowly. You are loved. You are wanted. You are appreciated. And you mean more to me than you may sometimes realize.
+    { title: "On the Days You Feel Unloved", text: `If today is one of those days when you feel like you're not enough, when you question your worth or wonder whether you're truly loved. I need you to stop for a moment and read these words slowly. You are loved. You are wanted. You are appreciated. And you mean more to me than you may sometimes realize.
 
 I know I won't always find the perfect words to express my feelings. There may be days when I'm distracted, when life gets overwhelming, or when I fail to show you the affection you deserve. But I never want my imperfect moments to make you question the place you hold in my heart.
 
-You don't have to be perfect for me to love you. You don't have to be happy every day, have everything figured out, or pretend to be strong when you're tired. You can have bad days. You can cry. You can feel uncertain. You can tell me when something hurts you. You can be completely yourself with me.
+You don't have to be perfect for me to love you. You don't have to be happy every day, have everything figured out yet or pretend to be strong when you're tired. You can have bad days. You can cry. You can feel overwhelmed. You can tell me when something hurts you. You can be yourself with me.
 
-I love the beautiful parts of you, but I also want to understand the parts you struggle to show the world. I want to know what makes you anxious, what makes you feel safe, what breaks your heart, and what brings that genuine smile to your face. You are not difficult to love simply because you have feelings. You are not a burden because you need reassurance. And you never have to earn my affection by being useful, cheerful, or flawless.
+I love the beautiful parts of you but I also want to understand the parts you struggle to show the world. I want to know what makes you anxious, what makes you feel safe, what breaks your heart, and what brings that genuine smile to your face. You are not difficult to love simply because you have feelings. You are not a burden because you need reassurance. And you never have to earn my affection by being useful, cheerful, or flawless.
 
-I want to keep learning how to love you better, because you deserve a love that makes you feel seen, respected, and secure. So, on the days when your mind tells you that you're not enough, let me remind you that you are a person worth loving deeply. And on the days when my actions don't make you feel that love clearly enough, I hope you'll tell me so we can find our way back to each other.
+I want to keep learning how to love you better because you deserve a love that makes you feel seen, respected and secure. So on the days when your mind tells you that you're not enough, let me remind you that you are a person worth loving deeply. And on the days when my actions don't make you feel that love clearly enough, I hope you'll tell me so we can find our way back to each other.
 
-You are not just someone I love when everything is easy. You are someone I want to keep choosing, understanding, and growing with. Please never forget how precious you are to me.
+You are not just someone I love when everything is easy. You are someone I want to keep choosing, understanding and growing with. Please never forget how precious you are to me obi m.
 
 With all my heart,
 The One Who Loves You ❤️` },
     { title: "A Letter for Our Anniversary", text: `My Sweetest Love,
 
-Happy anniversary to us, my darling. ❤️ Today isn't just a celebration of the time we've spent together. It's a celebration of every little moment that brought us here, every memory we've created, every challenge we've faced, every laugh we've shared, and every reason I've found to love you even more.
+Happy anniversary to us, my BBB. ❤️ Today isn't just a celebration of the time we've spent together. It's a celebration of every little moment that brought us here, every memory we've created, every challenge we've faced, every laugh we've shared and every reason I've found to love you more.
 
 When I think about us, I smile at the little things. The conversations that made me lose track of time, the moments when you made an ordinary day feel special, the times your words comforted me, and the memories that I wish I could relive a thousand times. You have become such a beautiful part of my life. You are the person I want to share my good news with, the one I want beside me when life feels difficult, and the one whose happiness matters deeply to me.
 
