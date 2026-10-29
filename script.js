@@ -10,7 +10,7 @@ Now, my love, I have one VERY IMPORTANT assignment for you. 😌☝🏽❤️ PL
 
 Some things might make you smile, some might make you laugh, and some might make you want to come and hug me immediately. 🥹🫂❤️ And if you happen to tear up a little, just know that I will gladly accept all the cuddles and kisses that come with it. 🤭💋 I may not be the best website developer in the world 😂😭, but I hope you can see the love behind every little detail. I made this because YOU are worth the effort, OUR love is worth celebrating, and our memories deserve something special. ❤️
 
-So take your sweet time, it's not long but it took weeks baby. Read everything, click everything, and enjoy every little surprise I've prepared for you. Imagine me sitting beside you, smiling like an idiot while you explore it. 😭❤️😂 Happy anniversary to us, my baby! 🥹💍💕 Thank you for being part of my life, for giving me beautiful memories, and for being someone I can love this much. Now go on, my love… SCROLL, CLICK, EXPLORE, AND LET YOUR BABY SPOIL YOU A LITTLE! 😭😂💋❤️ I LOVE YOU SOOOOO MUCH, MY OBI M. 🥹❤️♾️`
+So take your sweet time, it's not long but it took weeks baby. Read everything, click everything. Imagine me sitting beside you, smiling like an idiot while you scroll. 😭❤️😂 Happy anniversary to us, my baby! 🥹💕 Thank you for being part of my life, for giving me beautiful memories, and for being someone I can love this much😭😂💋❤️ I LOVE YOU SOOOOO MUCH, MY OBI M. 🥹❤️♾️`
 };
 const anniversaryMessage = `Another year, and I would still choose you every time.`;
 const surpriseMessage = `To My Precious Love, ❤️
