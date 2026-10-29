@@ -4,9 +4,7 @@ const couple = { name: "Charles", partnerName: "Amanda (Obi m)", relationshipSta
 const hero = {
   title: "Us, Always and Forever ❤️",
   description: `Every love story is beautiful, but ours is my favourite. A collection of our favourite moments, unforgettable memories, and the little things that make us, us.`,
-  moreInfo: `Hey, my favourite person 🥹❤️💗 Soooooo, guess what, baby? 🥹💕 Your baby has been secretly building something special for us! 🫣💌 Yes, a WHOLE WEBSITE dedicated to US and our little love story. 🥹❤️
-
-I wanted to do something thoughtful this anniversary, something you could look at and smile, something that would remind you of how much you mean to me and how grateful I am that we found each other. So, instead of just writing you a letter, I decided to put my little brain to work and create something that holds pieces of our story, our memories, my feelings, and all the little things that make loving you so special. 🥹💋
+  moreInfo: `I wanted to do something thoughtful this anniversary, something you could look at and smile, something that would remind you of how much you mean to me and how grateful I am that we found each other. So, instead of just writing you a letter, I decided to put my little brain to work and create something that holds pieces of our story, our memories, my feelings, and all the little things that make loving you so special. 🥹💋
 
 Now, my love, I have one VERY IMPORTANT assignment for you. 😌☝🏽❤️ PLEASE SCROLL ALL THE WAY TO THE BOTTOM AND CLICK ON EVERY SINGLE BUTTON AND IMAGE YOU SEE!!! 😭😂❤️ Yes, baby, EVERY. SINGLE. ONE. Don't be lazy ooo. 😭😂 Don't just look at the first page and say, "Awww, this is cute," then disappear. NO, MY LOVE! I WILL KNOW😭😂💕 I put love, time, thought, and effort into this, and there are little surprises waiting for you, so explore everythingggg! 🥹💗 Open the memories, read the letters, press the buttons, and don't leave any corner unexplored. 👀💌
 
